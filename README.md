@@ -1,6 +1,8 @@
 SB Breadcrumbs
 ===================================
 
+SB Breadcrums is a plugin for Wordpress
+
 SB Breadcrums will add a breadcrumbs for your website. Easy to use and custom style.
 
 ## How to use
